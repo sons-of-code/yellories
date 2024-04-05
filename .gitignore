@@ -1,0 +1,8 @@
+.cache
+.DS_Store
+.env
+.vscode
+node_modules
+fe/cypress/screenshots
+public
+vendor
